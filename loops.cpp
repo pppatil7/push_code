@@ -3,15 +3,39 @@ using namespace std;
 
 int main(){
 
+int number = 5;
+for(int i=1;i<=number;i++){
+    int m=5;
+    for(int j=1;j<=m;j++){
+       cout<<"*";
+    }
+    cout<<endl;
+}
+
+// int number = 15;
+// bool isPrime = true;
+
+// for(int i=2;i*i<=number;i++){
+// if(number%i==0){
+// isPrime=false;
+// break;
+// }
+// }
+
+// if(isPrime==true){
+// cout<<"prime number\n";
+// }else{
+//     cout<<"non prime number\n";
+// }
 
 
-int number = 10;
-int i = 1;
+// int number = 10;
+// int i = 1;
 
-do{
-    cout << i <<" ";
-    i++;
-}while(i<=number);
+// do{
+//     cout << i <<" ";
+//     i++;
+// }while(i<=number);
 
 // int number = 10;
 // int oddSum = 0;
