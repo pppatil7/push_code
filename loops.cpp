@@ -3,14 +3,29 @@ using namespace std;
 
 int main(){
 
-int number = 5;
-for(int i=1;i<=number;i++){
-    int m=5;
-    for(int j=1;j<=m;j++){
-       cout<<"*";
-    }
-    cout<<endl;
+
+int n = 4;
+int number = 1;
+
+for(int i=0;i<n;i++){
+for(int j=0;j<n;j++){
+cout<<number<<" ";
+number++;
 }
+cout<<endl;
+}
+
+
+
+
+// int number = 5;
+// for(int i=1;i<=number;i++){
+//     int m=5;
+//     for(int j=1;j<=m;j++){
+//        cout<<"*";
+//     }
+//     cout<<endl;
+// }
 
 // int number = 15;
 // bool isPrime = true;
