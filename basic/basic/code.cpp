@@ -10,7 +10,7 @@ int a=10;
 cout<<a++<<endl; //10
 cout<<++a<<endl; //12
 
-cout<<a--<<endl; //12 
+cout<<a--<<endl; //12
 cout<<--a<<endl; //10
 
 
