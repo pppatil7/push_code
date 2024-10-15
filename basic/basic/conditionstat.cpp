@@ -49,5 +49,5 @@ if(marks>=90){
     //     cout<<"number is negative\n"; //else condition
     // }
 
-    return 0;
+    return 0;   
 }
