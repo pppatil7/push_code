@@ -13,7 +13,7 @@ int linearSearch(int arr[], int size, int target){
 int main(){
     int arr[] = {1,2,3,4,56,78,12,34,11,90,567};
     int size = 11;
-    int target = 12;
+    int target = 14;
 
     int result = linearSearch(arr,size,target);
     cout<<"index of target :"<<result;
