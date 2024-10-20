@@ -6,7 +6,7 @@ int main(){
     
     vector vec = {'a','b','c','d','e','f'};
 
-    cout << "size= " <<vec.size() << endl;
+    cout << "size= " << vec.size() << endl;
 
     return 0;
 }
