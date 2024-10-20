@@ -17,8 +17,8 @@ int main(){
 
     vector<char> vec3 = {'a','e','i','o','u'};
 
-     for(char j : vec3){
-      cout << j << endl;
+     for(char val : vec3){
+      cout << val << endl;
      }
 
 
