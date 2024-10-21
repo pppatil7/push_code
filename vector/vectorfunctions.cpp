@@ -33,6 +33,9 @@ int main(){
 
     cout<< vec1.front() <<endl; //print value at the front
 
+    cout<<vec1.size()<<endl;  //print
+    cout<<vec1.capacity()<<endl;
+
 
     return 0;
 }
