@@ -3,21 +3,12 @@ using namespace std;
 
 int main(){
 
-
-
-
 int a=10;
 cout<<a++<<endl; //10
 cout<<++a<<endl; //12
 
 cout<<a--<<endl; //12
 cout<<--a<<endl; //10
-
-
-
-
-
-
 
 // int a,b;
 // cout<<"enter a: ";
@@ -85,6 +76,6 @@ cout<<--a<<endl; //10
     //cout<< price <<endl;
     //cout<<value<<endl;
 
-    // cout<<newPrice<<endl;
+    // cout<<newPrice<<endl; 
     return 0;
 }
