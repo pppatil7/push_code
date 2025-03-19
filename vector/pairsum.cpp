@@ -5,7 +5,7 @@ using namespace std;
 vector<int> pairSum(vector<int> nums, int target)
 {
     vector<int> ans;
-    int n = nums.size();
+    int n = nums.size();  
 
     for (int i = 0; i < n; i++)
     {
