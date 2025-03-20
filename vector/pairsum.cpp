@@ -11,7 +11,7 @@ vector<int> pairSum(vector<int> nums, int target)
     {
         for (int j = i; j < n; j++)
         {
-            if (nums[i] + nums[j] == target)
+            if (nums[i] + nums[j] == target) 
             {
                 ans.push_back(i);
                 ans.push_back(j);       
